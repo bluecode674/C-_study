@@ -1,0 +1,13 @@
+C:\hong\ADOForm_ver5\ADOForm\bin\Debug\ADOForm.exe.config
+C:\hong\ADOForm_ver5\ADOForm\bin\Debug\ADOForm.exe
+C:\hong\ADOForm_ver5\ADOForm\bin\Debug\ADOForm.pdb
+C:\hong\ADOForm_ver5\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\hong\ADOForm_ver5\ADOForm\obj\Debug\ADOForm_ver5.csproj.AssemblyReference.cache
+C:\hong\ADOForm_ver5\ADOForm\obj\Debug\ADOForm_ver5.csproj.SuggestedBindingRedirects.cache
+C:\hong\ADOForm_ver5\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\hong\ADOForm_ver5\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\hong\ADOForm_ver5\ADOForm\obj\Debug\ADOForm_ver5.csproj.GenerateResource.cache
+C:\hong\ADOForm_ver5\ADOForm\obj\Debug\ADOForm_ver5.csproj.CoreCompileInputs.cache
+C:\hong\ADOForm_ver5\ADOForm\obj\Debug\ADOForm_ver5.csproj.CopyComplete
+C:\hong\ADOForm_ver5\ADOForm\obj\Debug\ADOForm.exe
+C:\hong\ADOForm_ver5\ADOForm\obj\Debug\ADOForm.pdb

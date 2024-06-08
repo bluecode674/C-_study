@@ -1,0 +1,9 @@
+C:\hong\ADOForm_ver8\ADOForm\obj\Debug\ADOForm_ver8.csproj.AssemblyReference.cache
+C:\hong\ADOForm_ver8\ADOForm\obj\Debug\ADOForm_ver8.csproj.SuggestedBindingRedirects.cache
+C:\hong\ADOForm_ver8\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\hong\ADOForm_ver8\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\hong\ADOForm_ver8\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\hong\ADOForm_ver8\ADOForm\obj\Debug\ADOForm_ver8.csproj.GenerateResource.cache
+C:\hong\ADOForm_ver8\ADOForm\obj\Debug\ADOForm_ver8.csproj.CoreCompileInputs.cache
+C:\hong\ADOForm_ver8\ADOForm\obj\Debug\ADOForm.exe
+C:\hong\ADOForm_ver8\ADOForm\obj\Debug\ADOForm.pdb
